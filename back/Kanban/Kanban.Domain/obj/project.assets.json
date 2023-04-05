@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Colaborador(a) MGN\\source\\repos\\Kanban\\Kanban.Domain\\Kanban.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Colaborador(a) MGN\\Documents\\testekb\\back\\Kanban\\Kanban.Domain\\Kanban.Domain.csproj",
       "projectName": "Kanban.Domain",
-      "projectPath": "C:\\Users\\Colaborador(a) MGN\\source\\repos\\Kanban\\Kanban.Domain\\Kanban.Domain.csproj",
+      "projectPath": "C:\\Users\\Colaborador(a) MGN\\Documents\\testekb\\back\\Kanban\\Kanban.Domain\\Kanban.Domain.csproj",
       "packagesPath": "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Colaborador(a) MGN\\source\\repos\\Kanban\\Kanban.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Colaborador(a) MGN\\Documents\\testekb\\back\\Kanban\\Kanban.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

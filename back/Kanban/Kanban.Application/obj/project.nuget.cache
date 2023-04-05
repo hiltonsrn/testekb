@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fedz6iTV+wkimDJ+CCJlDADQaj7GjUkJob+vRMVxgmqZLWK4327UfuE9836T/OlzNeqEUD8ZgQOyYPf7kEgSZA==",
+  "dgSpecHash": "JqTakACNfuAYZc+2dFEQDLqkSvtTcTTkFjPMjAz0t5g2Dak24ZSI9iBCwxi1I2+ouREhh7xp6852ROMO/aSQpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Colaborador(a) MGN\\source\\repos\\Kanban\\Kanban.Application\\Kanban.Application.csproj",
+  "projectFilePath": "C:\\Users\\Colaborador(a) MGN\\Documents\\testekb\\back\\Kanban\\Kanban.Application\\Kanban.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

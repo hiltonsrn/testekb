@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0u3VjkIWCQmg74pqOm0+05liHyTadclh73DDRdnx/cuJdtvPW7+LQkydqLudbjAFXTrswwdlknFaR9VxvhzEYg==",
+  "dgSpecHash": "CllxtZxtWYHSN4z673hbs6fXpjYK8d1FKR3J5WgH3+OLgOq8WkCBrNU3mbIi+R0JD3eLAREDd6H2/VLQM0SYdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Colaborador(a) MGN\\source\\repos\\Kanban\\Kanban.Domain\\Kanban.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Colaborador(a) MGN\\Documents\\testekb\\back\\Kanban\\Kanban.Domain\\Kanban.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"

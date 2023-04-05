@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6szGK3ybrFTLwUvr0FI453katyVLHv1Nx8bKwYehqx8MkoBzrLZOvmT4txu0GJZZx9zT2q3/riWacUHsDxU0vA==",
+  "dgSpecHash": "P/iT+WOWrFcmEFJav0K/z8D0OXTYdqIt+SI9GstMT0I33QEa143baHtIErYoAqVV/AEVjyjcrMAcEp38ZWY8PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Colaborador(a) MGN\\source\\repos\\Kanban\\Kanban.Infra.Data\\Kanban.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Colaborador(a) MGN\\Documents\\testekb\\back\\Kanban\\Kanban.Infra.Data\\Kanban.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Colaborador(a) MGN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
