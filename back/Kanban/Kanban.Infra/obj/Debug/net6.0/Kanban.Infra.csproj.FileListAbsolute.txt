@@ -1,0 +1,40 @@
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.csproj.AssemblyReference.cache
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.AssemblyInfoInputs.cache
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.AssemblyInfo.cs
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.csproj.CoreCompileInputs.cache
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.deps.json
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.runtimeconfig.json
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.dll
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.pdb
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Application.dll
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Domain.dll
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Application.pdb
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Domain.pdb
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.csproj.CopyComplete
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.dll
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\refint\Kanban.Infra.dll
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.pdb
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.genruntimeconfig.cache
+C:\Users\C003937\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\ref\Kanban.Infra.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.deps.json
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.runtimeconfig.json
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Application.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Domain.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.Data.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Application.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Domain.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\bin\Debug\net6.0\Kanban.Infra.Data.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.csproj.AssemblyReference.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.AssemblyInfoInputs.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.AssemblyInfo.cs
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.csproj.CopyComplete
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\refint\Kanban.Infra.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\Kanban.Infra.genruntimeconfig.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra\obj\Debug\net6.0\ref\Kanban.Infra.dll

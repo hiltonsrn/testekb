@@ -1,0 +1,113 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Montserrat;
+}
+
+.sectionHeader {
+    background: var(--unnamed-color-8cc587) 0% 0% no-repeat padding-box;
+    background: #8CC587 0% 0% no-repeat padding-box;
+    border-radius: 8px 0px;
+    text-align: left;
+    font: normal normal 600 16px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    padding: 5px;
+    height: 22px;
+}
+
+.sectionBack {
+    top: 104px;
+    left: 150px;
+    width: 333px;
+    height: 960px;
+    /* UI Properties */
+    background: #B9C5B9 0% 0% no-repeat padding-box;
+    box-shadow: 0px 8px 8px #00000029;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.rectangle1 {
+    top: 445px;
+    left: 543px;
+    width: 117px;
+    height: 14px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 11px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #00000080;
+    border: 1px solid #00000080;
+    border-radius: 3px;
+}
+
+.rectangle2 {
+    top: 342px;
+    left: 731px;
+    width: 80px;
+    height: 24px;
+    /* UI Properties */
+    background: #107154 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 3px;
+    text-align: center;
+    font: normal normal bold 11px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    padding-top: 5%;
+}
+
+.rectangle3 {
+    height: 19px;
+    text-align: center;
+    /* UI Properties */
+    border: 1px solid #107154;
+    border-radius: 3px;
+    padding-top: 5%;
+}
+
+.circulo {
+    background: #00000080 0% 0% no-repeat padding-box;
+    padding: 15%;
+    height: 100px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.fontSmall {
+    font: normal normal normal 10px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #00000080;
+}
+
+.name {
+    font: normal normal 600 14px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #000000E6;
+}
+
+.projectName {
+    font: normal normal 600 14px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #000000E6;
+}
+
+.description {
+    font: normal normal normal 12px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #000000B3;
+}
+
+.card {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+}
+
+.barra {
+    vertical-align: top;
+    background: var(--unnamed-color-8cc587) 0% 0% no-repeat padding-box;
+    background: #8CC587 0% 0% no-repeat padding-box;
+    box-shadow: 20px 35px 50px #0000001A;
+}

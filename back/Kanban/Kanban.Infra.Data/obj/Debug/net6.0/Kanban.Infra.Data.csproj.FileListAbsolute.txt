@@ -1,0 +1,17 @@
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\bin\Debug\net6.0\Kanban.Infra.Data.deps.json
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\bin\Debug\net6.0\Kanban.Infra.Data.runtimeconfig.json
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\bin\Debug\net6.0\Kanban.Infra.Data.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\bin\Debug\net6.0\Kanban.Infra.Data.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\bin\Debug\net6.0\Kanban.Domain.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\bin\Debug\net6.0\Kanban.Domain.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.AssemblyInfo.cs
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.csproj.CopyComplete
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\refint\Kanban.Infra.Data.dll
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.pdb
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\Kanban.Infra.Data.genruntimeconfig.cache
+C:\Users\Colaborador(a) MGN\source\repos\Kanban\Kanban.Infra.Data\obj\Debug\net6.0\ref\Kanban.Infra.Data.dll
